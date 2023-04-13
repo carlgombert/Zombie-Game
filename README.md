@@ -1,4 +1,4 @@
-# Zombie_Game
+# Zombie Game (In Progress)
 ## Details
 Created by: [carlgombert](https://github.com/carlgombert)   
 Uses Java and the AWT library   
