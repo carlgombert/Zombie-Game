@@ -7,7 +7,7 @@ Still in need of commenting
 ## How to Play  
 ### Controls
 Use the AWSD or the arrow keys to move  
-Tap on the screen to shoot in that direction
+Tap on the screen to shoot in that direction    
 Press the R button to reload
 
 ### Levels
