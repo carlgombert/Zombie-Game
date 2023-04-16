@@ -2,6 +2,7 @@
 ## Details
 Created by: [carlgombert](https://github.com/carlgombert)   
 Uses Java and the AWT library   
+Still in need of commenting
 
 ## How to Play  
 ### Controls
