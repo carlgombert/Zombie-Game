@@ -2,8 +2,9 @@
 ## Details
 Created by: [carlgombert](https://github.com/carlgombert)   
 Uses Java and the AWT library   
-Still in need of commenting
+Still in need of commenting   
 
+##Gameplay Video
 [<img src="https://github.com/carlgombert/Zombie_Game/blob/main/zombiegame/res/screenshot.png" width="50%">](https://www.youtube.com/watch?v=_RshGdqFzZU)
 
 ## How to Play  
