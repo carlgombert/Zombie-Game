@@ -1,8 +1,7 @@
-# Zombie Game (In Progress)
+# Zombie Game
 ## Details
 Created by: [carlgombert](https://github.com/carlgombert)   
-Uses Java and the AWT library   
-Still in need of commenting   
+Uses Java and the AWT library    
 
 ## Gameplay Video
 [<img src="https://github.com/carlgombert/Zombie_Game/blob/main/zombiegame/res/screenshot.png" width="50%">](https://www.youtube.com/watch?v=_RshGdqFzZU)
