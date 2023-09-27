@@ -2,7 +2,7 @@
 ## Details
 Created by: [carlgombert](https://github.com/carlgombert)   
 Uses Java and the AWT library    
-[click here to view code](https://github.com/carlgombert/Cerberus_Crypt/tree/main/cerberus_crypt/src/com/cerberus_crypt/main)
+[click here to view code](https://github.com/carlgombert/Zombie_Game/tree/main/zombiegame/src/com/zombiegame/main)
 
 ## Gameplay Video
 [<img src="https://github.com/carlgombert/Zombie_Game/blob/main/zombiegame/res/screenshot.png" width="50%">](https://www.youtube.com/watch?v=_RshGdqFzZU)
